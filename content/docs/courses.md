@@ -1,7 +1,7 @@
 +++
 title = 'My courses on Udemy'
 date = 2023-11-24T23:58:06+01:00
-draft = true
+draft = false
 +++
 
 [Practical Multi-Armed Bandit Algorithms in Python](https://www.udemy.com/course/practical-multi-armed-bandit-algorithms-in-python/?referralCode=6B5376A3AFBBD36DC167)
