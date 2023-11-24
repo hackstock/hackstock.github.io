@@ -179,8 +179,13 @@ weight = 1
 url = "#"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Courses"
 weight = 2
+url = "/docs/courses"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 3
 url = "#"
 
 
