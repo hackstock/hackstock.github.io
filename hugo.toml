@@ -157,23 +157,30 @@ icon = "fa fa-2x fa-medium"
 weight = 5
 url = "https://medium.com/@edwardpie"
 
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-envelope"
+weight = 5
+url = "mailto:hackstockpie@gmail.com"
+
+[[params.social]]
+name = "Call"
+icon = "fa fa-2x fa-whatsapp"
+weight = 5
+url = "tel:+4915209948475"
+
 
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Blog"
 weight = 1
 url = "#"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "About"
 weight = 2
-url = "#"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 3
 url = "#"
 
 
